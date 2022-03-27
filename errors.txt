@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/epilogue.rpy", line 154: is not terminated with a newline. (Check strings and parenthesis.)
+(Perhaps you left out a " at the end of the first line.)
+    "선생님" "그럼 17번 나와서 이문제 풀어볼까?""
+
+Ren'Py Version: Ren'Py 7.4.6.1693
+Tue Aug  3 00:03:50 2021
